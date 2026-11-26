@@ -5,7 +5,7 @@
  */
 window.APP_CONFIG = {
   ambiente: 'PRODUCAO',
-  versao: '0.13.1',
+  versao: '0.14.0',
   servidor: 'https://script.google.com/macros/s/AKfycbwTr3gAJvbU3D7QFim_XGZtZ7WChnJUiK_V4JWJKI-SrzZGo0sUjPnOFunuxPNVgv5y/exec',
   // PRODUÇÃO: sem aviso de ambiente de teste.
   modoExemplo: false,
